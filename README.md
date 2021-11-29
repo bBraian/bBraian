@@ -13,7 +13,6 @@
   <img align="center" alt="Braian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Braian-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  ##
 
 <div> 
   <!--<a href="https://www.youtube.com/channel/UCsU7lbwBVA4p08wMjSHzmvA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
