@@ -1,7 +1,7 @@
 ## Oii, Eu sou o Braian Viacava de Ávila!
  <div>
   <a href="https://github.com/bBraian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbraian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbraian&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbraian&layout=compact&langs_count=10&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
