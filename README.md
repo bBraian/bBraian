@@ -32,4 +32,4 @@ Developer at @ [Datacode Sistemas](https://github.com/datacodesistemas)
 * [Linkedin](https://www.linkedin.com/in/braian-viacava-de-avila-536558186/)
 
 ## 📊 Stats
-![Braian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bbraian&layout=compact&langs_count=8&custom_title=WakaTime+Stats+(all+time))
+![Braian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bbraian&layout=compact&langs_count=8&custom_title=WakaTime+Stats+(all+time))
