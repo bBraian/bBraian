@@ -1,25 +1,35 @@
-## Oii, Eu sou o Braian Viacava de Ávila!
- <div>
-  <a href="https://github.com/bBraian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbraian&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbraian&layout=compact&langs_count=10&theme=midnight-purple"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Braian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Braian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Braian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Braian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Braian-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Braian-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Braian-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
- 
-##
- 
-<div> 
-  <!--<a href="https://www.youtube.com/channel/UCsU7lbwBVA4p08wMjSHzmvA" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
-  <a href="https://www.instagram.com/b_braiann/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto: braianvoficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/braian-viacava-de-%C3%A1vila-536558186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+# Hey there 👋
 
-</div>
+I'm Braian, a 21 years old fullstack web developer from Brazil 🇧🇷  
+Developer at @ [Datacode Sistemas](https://github.com/datacodesistemas)
+
+## 👨‍💻 Technologies
+
+* ![Backend](https://img.shields.io/badge/-Backend-white?style=flat)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat&logo=laravel)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=nodedotjs)
+* ![Frontend](https://img.shields.io/badge/-Frontend-white?style=flat)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextdotjs)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)
+* ![Infra](https://img.shields.io/badge/-Infra-white?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+* ![DB](https://img.shields.io/badge/-DB-white?style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+* ![Environment](https://img.shields.io/badge/-Environment-white?style=flat)
+![VS Code](https://img.shields.io/badge/-VS_Code-black?style=flat&logo=visualstudiocode)
+![Mac OS](https://img.shields.io/badge/-Mac_OS-black?style=flat&logo=apple)
+![Windows OS](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows)
+
+## 📲 How to reach me?
+* [Whatsapp](https://wa.me/5551996268989)
+* [Linkedin](https://www.linkedin.com/in/braian-viacava-de-avila-536558186/)
+
+## 📊 Stats
+![Braian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bBraian&layout=compact&langs_count=8&custom_title=WakaTime+Stats+(all+time))
