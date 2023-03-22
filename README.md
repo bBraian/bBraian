@@ -28,11 +28,4 @@ Developer at @ [Datacode Sistemas](https://github.com/datacodesistemas)
 ![Windows OS](https://img.shields.io/badge/-Windows-black?style=flat&logo=windows)
 
 ## 📲 How to reach me?
-* [Whatsapp](https://wa.me/5551996268989)
 * [Linkedin](https://www.linkedin.com/in/braian-viacava-de-avila-536558186/)
-
-## 📊 Stats
- <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bbraian&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbraian&layout=compact&langs_count=10&theme=github_dark"/>
-</div>
