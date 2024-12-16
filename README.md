@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Braian, a 22 years old fullstack web developer from Brazil 🇧🇷  
+I'm Braian, a 23 years old fullstack web developer from Brazil 🇧🇷  
 Developer at @ [Datacode Sistemas](https://github.com/datacodesistemas)
 
 ## 👨‍💻 Technologies
