@@ -1,6 +1,6 @@
 # Hey there 👋
 
-I'm Braian, a 23 years old fullstack developer from Brazil
+I'm Braian, a 25 years old fullstack developer from Brazil
 Developer at @[Syonet](https://syonet.com/pt-br/)
 
 ## 👨‍💻 Technologies
